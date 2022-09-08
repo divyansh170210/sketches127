@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to left,  #a770ef , #cf8bf3, #fdb99b);
+    font-family: monospace;
+    font-size: 20px;
+}
+#label{
+    background: gold;
+}
+#confidence{
+    background: lawngreen;
+}
+button{
+    background-color: cyan;
+}
+.copy_right_footer {
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: red;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 255);
+    font-family:'Courier New', Courier, monospace
+ }
